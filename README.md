@@ -47,5 +47,5 @@ The project demonstrates practical skills in full-stack development, modular cod
 
 ## Author
 
-Developed by **Chiara Galtieri** as an individual academic project.  
-For any questions or details, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/tuo-linkedin) or [email](mailto:tuo@email.com).
+Created as a solo academic project.  
+Maintained by the repository owner.
